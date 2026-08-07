@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Data
+data/models/*.pkl
+
+# Power BI
+*.pbix
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
